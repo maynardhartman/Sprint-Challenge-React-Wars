@@ -1,0 +1,28 @@
+.root .App .header {
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    justify-content: flex-start;
+}
+
+.root .App .header-img {
+    display: flex;
+    text-align: end;
+    word-wrap: normal;
+}
+.header-body {
+    display: flex;
+    flex-direction: row;
+    margin-left: 20px;
+    justify-content: center;
+}
+
+.header-menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-content: space-between;
+    margin-right: 100px;
+    
+
+}
